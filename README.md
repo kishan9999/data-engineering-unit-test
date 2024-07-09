@@ -20,7 +20,7 @@ Make sure you have Python installed on your machine. This setup assumes Python 3
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/kishan9999/data-engineering-unit-test.git
    cd your-repository
    ```
 
@@ -101,7 +101,7 @@ If you'd like to contribute to this repository, fork it and create a pull reques
 
 ## Authors
 
-- Your Name - [@your-twitter](https://twitter.com/your-twitter)
+- Kishan Joshi
 
 ## Acknowledgments
 
