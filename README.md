@@ -1,6 +1,6 @@
 # data-engineering-unit-test
 
-Certainly! Below is a template for a `README.md` file on GitHub outlining how to set up and run unit tests for data engineering using pytest:
+how to set up and run unit tests for data engineering using pytest:
 
 ```markdown
 # Unit Testing for Data Engineering using Pytest
@@ -105,8 +105,4 @@ If you'd like to contribute to this repository, fork it and create a pull reques
 
 ## Acknowledgments
 
-Mention any contributors, libraries, or resources that inspired your work.
-
-```
-
-Feel free to adjust the structure and content according to your specific project needs and conventions. This template provides a basic outline to get you started with unit testing for data engineering using pytest on GitHub.
+---
