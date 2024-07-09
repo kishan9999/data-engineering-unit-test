@@ -1,4 +1,4 @@
-:octocat: # data-engineering-unit-test :bar_chart:
+:speech_balloon: # data-engineering-unit-test :bar_chart:
 
 how to set up and run unit tests for data engineering using pytest:
 
