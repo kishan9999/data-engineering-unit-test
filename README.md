@@ -93,7 +93,7 @@ Integrate your tests with continuous integration (CI) tools like GitHub Actions 
 
 ### License
 
-Include a license statement if applicable.
+MIT License
 
 ## Contributing
 
