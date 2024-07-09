@@ -11,3 +11,6 @@ def clean_data(df):
 def transform_data(df):
     df['col_sum'] = df['col1'] + df['col2']
     return df
+
+def remove_duplicates(df):
+    return df.drop_duplicates().reset_index(drop=True)
